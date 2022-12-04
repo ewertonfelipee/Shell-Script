@@ -3,9 +3,9 @@
 # echo {1..10}
 # echo {a..z}
 
-for ip in {1..10};
+for x in {1..10};
 do 
-echo 192.168.0.$ip;
+echo 192.168.0.$x;
 
 done
 
